@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 17, 2022 
+### Day 1: February 17, 2022 
 
 **Today's Progress**: Implemented a list of tags and a list of popular tags for the project ngx-medium-clone
 
