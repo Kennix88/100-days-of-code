@@ -2,9 +2,9 @@
 
 ### Day 0: February 17, 2022 
 
-**Today's Progress**: 
+**Today's Progress**: Implemented a list of tags and a list of popular tags for the project ngx-medium-clone
 
-**Thoughts:** 
+**Thoughts:** I was busy with a banal error in the code for more than 3 hours. As usual, the most difficult mistakes are simple ones :)
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Commit | ngx-medium-clone](https://github.com/Kennix88/ngx-medium-clone/commit/211307adfc1e65f265c5bd16bf3b8d6795afea60)
 
